@@ -1,4 +1,4 @@
-# Task #PC: Práctica Calificada #2
+# Práctica Calificada #2
 **course:** Programación Orientada a Objetos I  
 **unit:** Unidad 4 y 5  
 **cmake project:** poo1_PC2_lab106_v2021_1
