@@ -20,7 +20,7 @@
     - Capacidad para aplicar conocimientos de matemática.(nivel 2)
     - Capacidad para diseñar un sistema, un componente o un proceso para satisfacer las necesidades deseadas dentro de restricciones realistas(nivel 2)
 
-## Question #1 - Obteniendo los dígitos (7 points)
+## Question #1 - Obteniendo los indices (7 points)
 
 Escribir y diseñar una función `obtener_indices` que retorne un vector de enteros y que permita leer un arreglo dinámico con valores enteros de tamaño `n` y un carácter `opcion` que defina las siguientes opciones:
 - p par
