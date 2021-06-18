@@ -139,7 +139,7 @@ Algunos ejemplos:
 0 13 14 15
 ```
 
-## Question #3 - Invertir un String de forma recursiva (6 points)
+## Question #3 - Ordenada y Sin duplicados (6 points)
 
 Escribir un programa que lea `n` valores enteros y que los almacene en un vector, modificar el vector para que solo guarde en forma ordenada los valores sin repetirlos.
 
