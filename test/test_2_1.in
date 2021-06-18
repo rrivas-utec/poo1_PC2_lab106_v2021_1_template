@@ -1,0 +1,26 @@
+#input
+    3
+    1 2 5 7 6 5 4 8 10
+#output
+    0  1  2
+    0  4  5
+    6  7  8
+#endtest
+
+#input
+    2
+    1 2 6 5
+#output
+    0  1
+    2  0
+#endtest
+
+#input
+    4
+    1 2 10 7 6 5 11 15 10 3 1 9 13 20 14 4
+#output
+    0  1  2  3
+    4  5  6  7
+    0  9 10 11
+    0 13 14 15
+#endtest
