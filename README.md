@@ -12,7 +12,7 @@
 
 ## Competencias
 - Para los alumnos de la carrera de Ciencia de la Computación
-    - Aplica conocimientos de computación  apropiados para la solución de  problemas definidos y sus requerimientos en la disciplina del programa.(nivel 2)
+    - Aplica conocimientos de computación apropiados para la solución de problemas definidos y sus requerimientos en la disciplina del programa.(nivel 2)
     - Diseña, implementa y evalúa soluciones a problemas complejos de computación.(nivel 2)
     - Crea, selecciona, adapta y aplica técnicas, recursos y herramientas modernas para la práctica de la computación y comprende sus limitaciones.(nivel 2)
 
@@ -29,7 +29,7 @@ Escribir y diseñar una función `obtener_indices` que retorne un vector de ente
 ```
 vector<int> obtener_indices(int* arreglo,int n,char opcion);
 ```
-La función deberá retornar un vector que contenga con los subíndices de los valores de acuerdo al parametro  opción, por ejemplo: si se elige la opción \textbf{p} debera generar un vector con todos los subíndices de los valores que tengan valor par. si se elige la opción \textbf{i} debera generar un vector con todos los subíndices de los valores que tengan valor impar y si se elige la opción \textbf{r} debera generar un vector con todos los subíndices de los valores que tengan valor primos.
+La función deberá retornar un vector que contenga con los subíndices de los valores de acuerdo al parámetro opción, por ejemplo: si se elige la opción **`p`** debera generar un vector con todos los subíndices de los valores pares. Si se elige la opción **`i`** debera generar un vector con todos los subíndices de los valores impar y si se elige la opción **`r`** debera generar un vector con todos los subíndices de los valores primos.
 
 #### Input Format
 
